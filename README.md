@@ -1,2 +1,2 @@
-# RealTimeChatApp
-Building a realtimechatapp using springboot,react,mysql
+# EpharmacyWebApplication
+Building a EpharmacyWebApplication using springboot,react,mysql
